@@ -26,7 +26,7 @@ app.config['UPLOAD_FOLDER'] = 'static/'
 client = vision.ImageAnnotatorClient()
 
 
-api = ClarifaiApp(api_key='0c62643bfa1944848b527ef24febffb6')
+api = ClarifaiApp(api_key='')
 model =  api.public_models.general_model
 model.model_version = 'aa7f35c01e0642fda5cf400f543e7c40'
 
