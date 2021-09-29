@@ -39,7 +39,7 @@ matplotlib==3.0.1
 networkx==2.2
 nibabel==2.3.1
 NiftyNet==0.4.0
-nltk==3.4
+nltk==3.6.3
 numpy==1.14.5
 opencv-python==3.4.3.18
 packaging==18.0
